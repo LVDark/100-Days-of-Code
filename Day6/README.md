@@ -1,6 +1,6 @@
 # Reeborg Maze Problem Solution
 
-This project contains a solution to the maze problem from [Reeborg.ca](reeborg.ca/). The maze solution is implemented in the `day_6.py` Python file. Additionally, extra files have been provided to test various extreme cases.
+This project contains a solution to the maze problem from [Reeborg.ca](https://reeborg.ca/). The maze solution is implemented in the `day_6.py` Python file. Additionally, extra files have been provided to test various extreme cases.
 
 ## Project Contents
 
