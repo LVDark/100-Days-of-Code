@@ -24,11 +24,11 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 passwordlist = []
 password = ""
-for i in range(0, nr_letters):
+for i in range(nr_letters):
     passwordlist.append(random.choice(letters))
-for i in range(0, nr_symbols):
+for i in range(nr_symbols):
     passwordlist.append(random.choice(symbols))
-for i in range(0, nr_numbers):
+for i in range(nr_numbers):
     passwordlist.append(random.choice(numbers)) 
 random.shuffle(passwordlist)
 for char in passwordlist:
