@@ -1,23 +1,17 @@
-# 100 Days of Code
+# 100 Days of Code - Python Coding Bootcamp
+
+![100 Days of Code](https://img.shields.io/badge/100%20Days%20of%20Code-Dr.Angela%20Yu-brightgreen)
+
+This project is created to follow **Dr. Angela Yu's 100 Days of Python Coding Bootcamp** on Udemy, aiming to learn the Python programming language and develop a daily coding habit.
 
 ## About the Project
-This project offers a 100-day coding challenge aimed at helping users develop a habit of coding daily. During this process, you can improve your coding skills and increase your motivation.
 
-## Goals
-- Develop a daily coding habit
-- Enhance coding skills
-- Boost motivation
+- **Course Link:** [100 Days of Code - Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=B10666044D316355D272)
+- **Goals:** 
+  - Learn the Python programming language
+  - Build a daily coding habit
+  - Maintain high motivation
 
-## Technology Stack
-This project does not use a specific technology stack. Users are encouraged to use their preferred programming languages and tools.
+## How It Works
 
-## Contributing
-1. **Fork** this repository.
-2. **Create a new branch** (`git checkout -b feature/YourFeature`).
-3. **Make your changes** and **commit** them (`git commit -m 'Add some feature'`).
-4. **Push your branch** (`git push origin feature/YourFeature`).
-5. Create a **pull request**.
-
-
-## Contact
-If you have any questions or suggestions, please feel free to reach out!
+This repository serves as a journal where I document what I learn and create each day. Separate folders and files have been created for each day.
